@@ -10,13 +10,10 @@ header{
     background-color: lightslategray;
     padding: 5px ;
     box-shadow: 7px 10px 11px 1px;
-    float: center;
 }
 a{
     text-decoration:none;
-    
 }
-
 
 h1{
     text-align:center;
@@ -42,10 +39,7 @@ img{
 }
 
 
-#Skill{
-    padding-right: 75px;
-    padding-top: 20px;
-}
+
 
 .abi {
     background-color: rgb(220, 119, 119);
