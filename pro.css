@@ -10,6 +10,7 @@ header{
     background-color: lightslategray;
     padding: 5px ;
     box-shadow: 7px 10px 11px 1px;
+    float: center;
 }
 a{
     text-decoration:none;
@@ -38,7 +39,7 @@ img{
 
 }
 .xxx{
-    float: left;
+    float: center;
     display: inline-table;
 }
 span p{
