@@ -44,7 +44,7 @@ img{
 }
 span p{
   display: inline;
-  
+  float:center;
 }
 
 #Skill{
