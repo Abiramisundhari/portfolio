@@ -1,0 +1,78 @@
+nav ul li{
+    
+    display:inline;
+    text-align: center;
+    padding:0px 70px 0px 70px;
+    font-size: 20px;
+    
+}                                                                                                                                                                               
+header{
+    background-color: lightslategray;
+    padding: 5px ;
+    box-shadow: 7px 10px 11px 1px;
+}
+a{
+    text-decoration:none;
+}
+
+h1{
+    text-align:center;
+    color:brown
+}
+main{
+    text-align: center;
+   
+}
+#Home{
+    padding: 20px;
+    padding-bottom: 0px;
+    font-size: 15px;
+}
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+#About{
+    padding: 20px;
+
+}
+.xxx{
+    float: right;
+    display: inline-table;
+}
+span p{
+  display: inline;
+  
+}
+
+#Skill{
+    padding-right: 240px;
+}
+
+.abi {
+    background-color: rgb(220, 119, 119);
+    text-align: center;
+    margin: 30px;
+    border-radius: 40px;
+    box-shadow: 5px 15px 9px 1px;
+}
+#Portfolio{
+    padding: 0px 100px 0px 100px;
+    border-radius: 30px;
+}
+#Contact{
+    padding: 0px;
+}
+footer{
+    text-align: center;
+    background-color: lightslategray;
+    padding: 20px;
+    height: 40px;
+    border: 40px;
+    box-shadow: 7px 10px 11px 1px;
+}
+hr{
+    height: 1px;
+    background-color:black ;
+}
